@@ -220,4 +220,15 @@ Antes de seguir para a Aula 2:
 * ✔ Entender o papel do `main`
 * ✔ Saber explicar o que é compilação
 
+| Tipo             | Máscara |
+| ---------------- | ------- |
+| `int`            | `%d`    |
+| `unsigned int`   | `%u`    |
+| `float / double` | `%f`    |
+| `char`           | `%c`    |
+| `string`         | `%s`    |
+| endereço         | `%p`    |
+| `size_t`         | `%zu`   |
+
+
 ---
